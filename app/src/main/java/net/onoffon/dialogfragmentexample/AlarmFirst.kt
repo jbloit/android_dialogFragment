@@ -21,9 +21,7 @@ class AlarmFirst : DialogFragment() {
     override fun onCreateView(inflater: LayoutInflater?, container:
     ViewGroup?, savedInstanceState: Bundle?): View {
 
-
         dialog.window.setGravity(Gravity.BOTTOM )
-
 
         var myView = inflater!!.inflate(R.layout.fragment_alarm_first
                 , container, false)
