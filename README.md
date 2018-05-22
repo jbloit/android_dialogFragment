@@ -1,2 +1,6 @@
 #Android sample: show a dialogFragment
-The simplest possible example
+
+All tutorials I found online were complex, ie showed more than needed.
+I wanted the simplest possible example.
+This shows a basic dialog fragment, which communicates with the main activity.
+
